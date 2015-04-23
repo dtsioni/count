@@ -7,12 +7,20 @@ It then outputs the number of unique lines in the original text file.
 Example:
 
 file2.txt contains:
+
 0x7f1a9804ae19
+
 0x7f1a9804ae1c
+
 0x7f1a9804ae1c
+
 0x7f1a9804ae19
+
 0x7f1a9804ae16
+
 0x7f1a9814ae1c
 
+
 ./count file2.txt
+
 4
